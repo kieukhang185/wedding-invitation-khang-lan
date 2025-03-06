@@ -192,7 +192,7 @@
 #HEADLINE6 {
     width: 183px;
     top: 82px;
-    left: 48.5px;
+    left: 61px;
 }
 
 #HEADLINE6>.ladi-headline {
@@ -297,18 +297,18 @@
 
 #HEADLINE8,
 #HEADLINE9 {
-    width: 160px;
+    width: 170px;
 }
 
 #HEADLINE8 {
     top: 110.9px;
-    left: 13px;
+    left: 10px;
 }
 
 #HEADLINE8>.ladi-headline,
 #HEADLINE9>.ladi-headline {
-    font-family: Oswald, sans-serif;
-    font-size: 16px;
+    font-family: "Andada Pro", sans-serif;
+    font-size: 15px;
     line-height: 1.6;
     color: rgb(0, 0, 0);
     text-align: center;
@@ -345,28 +345,29 @@
     width: 173px;
     height: 69px;
     top: 0px;
-    /* left: 29px; */
-    left: 10px;
+    left: 5px;
 }
 
 #HEADLINE10,
 #HEADLINE13 {
     width: 63px;
+    font-family: "Adamina", sans-serif;
 }
 
 #HEADLINE10 {
     top: 0px;
-    /* left: 44.5px; */
-    left: 80px;
+    left: 60.5px;
 }
 
 #HEADLINE12 {
-    width: 235px;
+    width:235px;
+    left: 5px;
 }
 
 #HEADLINE12>.ladi-headline,
 #HEADLINE14>.ladi-headline {
-    font-family: RGFuYluZNjcmlwdCWYXJpYWJsZUZvbnRfddodCdGY;
+    /* font-family: RGFuYluZNjcmlwdCWYXJpYWJsZUZvbnRfddodCdGY; */
+    font-family: 'Allura';
     font-size: 23px;
     line-height: 1.6;
     color: rgb(0, 0, 0);
@@ -386,19 +387,16 @@
     width: 211px;
     height: 66px;
     top: 0px;
-    left: 216.833px;
+    left: 188px;
 }
 
 #HEADLINE13 {
     top: 0px;
     left: 85px;
-    /* left: 85px; */
 }
 
 #HEADLINE14 {
-    width: 211px;
-
-    margin-left: 40px;
+    width: 230px;
 }
 
 #HEADLINE14.ladi-animation>.ladi-headline,
@@ -459,7 +457,7 @@
 }
 
 #IMAGE3>.ladi-image>.ladi-image-background {
-    background-image: url("../image/codau.jpg");
+    background-image: url("../image/chure.jpg");
 }
 
 #IMAGE3>.ladi-image,
@@ -483,7 +481,7 @@
 }
 
 #IMAGE6>.ladi-image>.ladi-image-background {
-    background-image: url("../image/chure.jpg");
+    background-image: url("../image/codau.jpg");
 }
 
 #IMAGE6.ladi-animation>.ladi-image,
@@ -641,7 +639,7 @@
 #HEADLINE27 {
     width: 380px;
     top: 136.17px;
-    left: 30px;
+    left: 70px;
 }
 
 #HEADLINE27>.ladi-headline,
@@ -994,9 +992,9 @@
 }
 
 #HEADLINE17 {
-    width: 204px;
+    width: 216px;
     top: 382.718px;
-    left: 111.5px;
+    left: 101px;
 }
 
 #HEADLINE17>.ladi-headline {
@@ -1083,7 +1081,7 @@
 #HEADLINE23 {
     width: 294px;
     top: 533.338px;
-    left: 64px;
+    left: 76px;
 }
 
 #IMAGE10 {
